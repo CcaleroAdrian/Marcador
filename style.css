@@ -1,0 +1,105 @@
+*{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+
+input{
+	border: 1px solid white;
+	background-color: black;
+}
+
+#minutos{
+	height: 180px;
+	font-size: 150px;
+	width: 180px;	
+	display: inline;
+	border: none;
+}
+
+#segundos{
+	height: 180px;
+	font-size: 160px;
+	width: 185px;
+	
+	display: inline;
+	border: none;
+}
+
+#alternanciaA{
+	height: 80px;
+	font-size: 85px;
+	width: 140px;
+	text-align: center;
+	color: #ff0000;
+}
+
+#alternanciaB{
+	height: 80px;
+	font-size: 85px;
+	width: 140px;
+	text-align: center;
+}
+
+#equipoA{
+	width: 500px;
+	height: 70px;
+	font-size: 60px;
+}
+
+#equipoB{
+	width: 100%;
+	height: 70px;	
+	font-size: 60px;
+}
+
+#marcadorA{
+	height: 130px;
+	font-size: 120px;
+	width: 225px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#marcadorB{
+	height: 130px;
+	font-size: 120px;
+	width: 225px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#periodo{
+	height: 130px;
+	font-size: 120px;
+	width: 140px;
+	text-align: center;
+}
+
+#faltasA{
+	height: 100px;
+	font-size: 90px;
+	width: 100px;
+	text-align: center;
+}
+
+#faltasB{
+	height: 100px;
+	font-size: 90px;
+	width: 100px;
+	text-align: center;
+}
+
+#tiemposA{
+	height: 100px;
+	font-size: 90px;
+	width: 140px;
+	text-align: center;	
+}
+
+#tiemposB{
+	height: 100px;
+	font-size: 90px;
+	width: 140px;
+	text-align: center;
+}
